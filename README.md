@@ -1,16 +1,48 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy estudiante de DAM
 
-<!--
-**josebarrancos07/josebarrancos07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente estoy realizando prácticas, donde sigo desarrollando mis habilidades técnicas y adquiriendo experiencia en un entorno profesional.
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma.
+- 🚀 Actualmente realizando prácticas en el ámbito del desarrollo de software.
+- ☕ Desarrollo backend con Java y Spring Boot.
+- 🗄️ Trabajo con SQL y bases de datos.
+- 🌐 Desarrollo frontend con HTML, CSS y JavaScript.
+- 📚 Interesado en aprender nuevas tecnologías y mejorar continuamente.
+- 🤝 Motivado para colaborar en equipo y participar en proyectos reales.
+
+## 🛠️ Tecnologías y herramientas
+
+### Backend
+- Java
+- Spring Boot
+- Python
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### Bases de datos
+- SQL
+
+### Herramientas
+- Git
+- GitHub
+- Entornos de desarrollo (IDE)
+- Scrum
+
+## 📂 Proyectos
+
+En este perfil comparto proyectos y prácticas relacionados con el desarrollo de aplicaciones, la programación backend, las bases de datos y el desarrollo web.
+
+Mi objetivo es seguir mejorando mis conocimientos, crear aplicaciones funcionales y documentar mi evolución como desarrollador.
+
+## 🎯 Objetivo profesional
+
+Seguir creciendo como desarrollador de software, ampliar mis conocimientos en Java y Spring Boot y adquirir experiencia en el desarrollo de aplicaciones completas, desde el backend hasta la interfaz de usuario.
+
+---
+
+⭐ ¡Gracias por visitar mi perfil!
